@@ -33,11 +33,11 @@ The system achieved:
 
 HarvestSight showcases the potential of AI-powered solutions in precision agriculture, aiding sustainable and efficient crop management practices. Its ability to offer personalized insights based on soil conditions and crop requirements can significantly enhance yields and reduce environmental impact.
 
-## Future Scope
+**## Future Scope
 
 - Expand system capabilities to include more crops.
 - Integrate real-time sensor data.
-- Develop mobile applications for farmers.
+- Develop mobile applications for farmers.**
 
 ## How to Use
 
@@ -50,6 +50,3 @@ Include instructions on how to:
 
 - Mention contributors and their contributions.
 
-## License
-
-Specify the project's license.
